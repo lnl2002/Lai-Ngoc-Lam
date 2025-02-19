@@ -14,7 +14,7 @@ This project is a simple Express.js application built with TypeScript that imple
 ## Installation
 1. Clone the repository:
    ```
-   git clone <repository-url>
+   git clone https://github.com/lnl2002/Lai-Ngoc-Lam.git
    cd my-crud-express-app
    ```
 
